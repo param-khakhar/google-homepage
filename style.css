@@ -1,0 +1,48 @@
+.header{
+    width:100%;
+    bottom:87.5%;
+    top:0;
+
+}
+
+.others{
+    width:100%;
+    position:fixed;
+    top:16px;
+    text-align: right;
+    word-spacing: 10px;
+    right: 100px;
+    font-size: 1.5em;
+}
+
+.below{
+    width:100%;
+    margin-top:89px;
+    background-color: white;
+
+}
+
+.Image{
+    width: 100%;
+    margin-left:39%;
+    margin-top : 280px;
+    margin-bottom : 7px; 
+}
+
+.input{
+    margin-left: 40%;
+    width:40%;
+}
+
+img{
+    width:20%;
+    height:50%;
+}
+.enter{
+    margin-left: -15%;
+    width: 5%;
+}
+.Buttons{
+    margin-left: 40%;
+    margin-top:38px;
+}
