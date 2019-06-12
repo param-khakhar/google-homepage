@@ -13,6 +13,7 @@
     word-spacing: 10px;
     right: 100px;
     font-size: 1.5em;
+    
 }
 
 .below{
@@ -39,10 +40,93 @@ img{
     height:50%;
 }
 .enter{
-    margin-left: -15%;
+    margin-left: -26%;
     width: 5%;
+    margin-bottom:5px;
 }
 .Buttons{
     margin-left: 40%;
     margin-top:38px;
+}
+.button1{
+    padding: 11px 21px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    margin-left:-3%;
+    margin-top:-10px;
+    margin-right:13px;
+  }
+
+.button2{
+    padding: 11px 21px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    margin-right:30%;
+    margin-top:10px;
+}
+
+.belowsearch{
+    margin-top:-20px;
+}
+.query{
+    font-size:27px;
+}
+
+.Footer{
+    margin-top:11%;
+    margin-bottom:0;
+    background-color: rgba(0,0,0,.054);
+    padding-top:3px;
+    padding-bottom:3px;
+}
+
+.first{
+    padding-left: 20px;
+    font-family: Arial;
+    font-size:20px;
+}
+.inline{
+    display: inline;
+    font-family: Arial;
+    font-size:20px;
+}
+.ads{
+    margin-left: 15px;
+    margin-right:20px;
+}
+.business{
+    margin-left: 15px;
+    margin-right:20px;
+}
+.about{
+    margin-left: 15px;
+    margin-right:20px;
+}
+.hsw{
+    margin-left: 15px;
+    margin-right:20px;
+}
+.privacy{
+    margin-left:50%;
+    margin-right:20px;
+}
+.terms{
+    margin-right:20px;
+}
+.settings{
+    margin-right:20px;
+}
+.second{
+    background-color:  rgba(0,0,0,.054);
+    padding-bottom:5px;
+    border:1px,solid,black;
+}
+.body{
+    margin-bottom:0;
 }
